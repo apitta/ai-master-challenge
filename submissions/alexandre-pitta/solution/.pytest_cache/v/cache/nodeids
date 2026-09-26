@@ -1,0 +1,19 @@
+[
+  "tests/test_api.py::test_detail_explains_and_recommends",
+  "tests/test_api.py::test_file_database_persists_between_restarts",
+  "tests/test_api.py::test_filters_combine",
+  "tests/test_api.py::test_invalid_commands_are_rejected",
+  "tests/test_api.py::test_list_is_prioritized",
+  "tests/test_api.py::test_log_activity_sets_next_step",
+  "tests/test_api.py::test_prospecting_advance_then_win",
+  "tests/test_api.py::test_requalify_moves_out_of_recycle",
+  "tests/test_api.py::test_summary_matches_spreadsheet",
+  "tests/test_scoring.py::test_every_opportunity_matches_excel",
+  "tests/test_scoring.py::test_excel_round_half_away_from_zero",
+  "tests/test_scoring.py::test_params_read_from_sheet",
+  "tests/test_scoring.py::test_prospecting_gets_fixed_time_points",
+  "tests/test_scoring.py::test_stall_boundaries[138-A-1.0]",
+  "tests/test_scoring.py::test_stall_boundaries[139-R-0.6]",
+  "tests/test_scoring.py::test_stall_boundaries[181-R-0.4]",
+  "tests/test_scoring.py::test_stall_boundaries[271-R-0.25]"
+]

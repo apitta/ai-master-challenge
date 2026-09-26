@@ -1,0 +1,8 @@
+[theme]
+primaryColor = "#256abf"
+
+[client]
+toolbarMode = "minimal"
+
+[server]
+fileWatcherType = "none"
